@@ -1,0 +1,24 @@
+SPE Project(iGlobe) - Testing
+MT2021094 - Pragya Khare
+MT2021084 - Nikunj Khakhkhar
+
+This contains two folders junit-selenium-testcase, react-rendering-snapshot-tests, readme file and report.pdf
+
+The Junit-selenium-testcase contains to java files written for junit-test cases and selenium test cases.
+
+React-rendering-snapshot-tests contains the .test.js file used for testing the clinet side rendering, user session data testing and snapshot testing
+
+report.pdf contains the report for the testing part of the project in pdf format
+
+Contributions:-
+
+Pragya Khare(MT2021084)
+Selenium - Login Valid and Invalid test Cases
+Snapshot Testing - Snapshot Test for App.js, Login.js, BuyProduct.js
+
+Nikunj Khakhkhar(MT2021084)
+Selenium - Buy Product Page Testing For Available and Unavailable Products
+Rendering Tests - Rendering Test cases for App.js, Login.js, BuyProduct.js, Buy.js
+
+Github Link of SPE Project - https://github.com/N1kunj1998/iGlobe
+Github Link of Testing Performed on SPE - Project - https://github.com/N1kunj1998/iGlobe-testing.git
